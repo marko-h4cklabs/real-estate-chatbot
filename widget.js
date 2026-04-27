@@ -3,7 +3,7 @@
   // KONFIGURACIJA — Prilagodite prema vašoj agenciji
   // ============================================================
   var CONFIG = {
-    PROXY_URL: 'https://your-vercel-url.vercel.app', // <-- ZAMIJENITE s vašim Vercel URL-om nakon deploya
+    PROXY_URL: 'https://real-estate-chatbot-eta.vercel.app/', // <-- ZAMIJENITE s vašim Vercel URL-om nakon deploya
     BRAND_NAME: 'Agencija za Nekretnine',
     BRAND_COLOR: '#1a3a5c',
     ACCENT_COLOR: '#c8a96e',
