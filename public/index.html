@@ -514,6 +514,13 @@
     msgBox.scrollTop = msgBox.scrollHeight;
   }
 
+  function renderMarkdown(text) {
+    return text
+      .replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;')
+      .replace(/\*\*(.*?)\*\*/g, '<strong>$1</strong>')
+      .replace(/\n/g, '<br>');
+  }
+
   function addBubble(text, role) {
     const row = document.createElement('div');
     row.className = 'msg-row ' + role;
@@ -527,7 +534,7 @@
 
     const bubble = document.createElement('div');
     bubble.className = 'msg-bubble ' + role;
-    bubble.textContent = text;
+    bubble.innerHTML = renderMarkdown(text);
     row.appendChild(bubble);
 
     msgBox.appendChild(row);
