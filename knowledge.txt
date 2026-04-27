@@ -1,45 +1,136 @@
 # ============================================================
-# BAZA ZNANJA — AGENCIJA ZA NEKRETNINE
+# BAZA ZNANJA — EDENVILE AGENCIJA ZA NEKRETNINE
 # ============================================================
-# Ovu datoteku možete slobodno uređivati bez tehničkog znanja.
-# Dodajte, izmijenite ili obrišite pitanja i odgovore prema
-# potrebama vaše agencije. Format je slobodan — pitanja i
-# odgovori, paragrafi, liste — sve funkcionira.
+# Slobodno dodajte, izmijenite ili obrišite bilo što.
+# Bot koristi SAMO ovaj sadržaj — nikada ne izmišlja.
 # ============================================================
 
-## Usluge agencije
 
-P: Koje usluge pruža vaša agencija?
-O: Naša agencija pruža kompletne usluge u prometu nekretninama: posredovanje pri kupnji i prodaji stanova, kuća, poslovnih prostora i zemljišta, te posredovanje pri najmu i zakupu nekretnina. Nudimo i procjenu vrijednosti nekretnina te stručno savjetovanje kroz cijeli proces transakcije.
+## OPĆENITO O AGENCIJI
 
-P: Kolika je vaša provizija?
-O: Provizija za posredovanje pri prodaji iznosi standardno 2–3% od dogovorene prodajne cijene, ovisno o vrsti i vrijednosti nekretnine. Kod najma, provizija je obično u visini jedne do dvije mjesečne najamnine. Točan iznos dogovaramo individualno pri prvom razgovoru.
+Agencija posluje po cijeloj Hrvatskoj, pretežito Zagreb i okolica.
+Radno vrijeme: 0-24, dostupni u svakom trenutku.
+Kontakt: 0913635480 ili matija@edenvile.hr
+Surađujemo s određenim partnerskim agencijama, ne sa svima.
 
-P: Kako se odvija proces kupnje nekretnine uz vašu agenciju?
-O: Proces kupnje kroz našu agenciju teče u nekoliko koraka: 1) Besplatni razgovor o vašim potrebama i budžetu. 2) Pregled odabranih nekretnina iz naše ponude. 3) Pregovori s prodavateljem i dogovor cijene. 4) Provjera dokumentacije i pravnog statusa nekretnine. 5) Potpisivanje predugovora i uplata kapare. 6) Sklapanje konačnog kupoprodajnog ugovora kod javnog bilježnika. 7) Primopredaja nekretnine i uknjižba.
 
-P: Koliko dugo traje prodaja nekretnine?
-O: Trajanje prodaje ovisi o vrsti nekretnine, lokaciji i stanju tržišta. U prosjeku, od objave do konačnog potpisivanja ugovora prođe između jednog i tri mjeseca. Nekretnine na atraktivnim lokacijama s dobrim omjerom cijene i kvalitete mogu se prodati i brže.
+## PONUDA NEKRETNINA
 
-P: Pomažete li s pribavljanjem dokumentacije?
-O: Da, naši agenti pomažu u provjeri i pribavljanju potrebne dokumentacije — izvadak iz zemljišnih knjiga, lokacijska informacija, energetski certifikat i ostalo. Surađujemo s pouzdanim javnim bilježnicima i pravnicima koji mogu pratiti cijeli proces.
+P: Koje nekretnine imate u ponudi?
+O: Imamo raznovrsne nekretnine u ponudi — stanovi, kuće, poslovni prostori, zemljišta. Ponuda se ažurira iz dana u dan. Sve dostupne nekretnine možete pogledati na našoj stranici. Ako želite biti obaviješteni o nekretninama koje tek dolaze u prodaju, ostavite svoje podatke i ostanemo u kontaktu.
 
-## Najam nekretnina
+P: Kako mogu saznati o novim nekretninama?
+O: Potrebno je pratiti našu stranicu jer se ponuda svakodnevno ažurira, ili ostaviti svoje podatke kako bismo vas kontaktirali kada dođe nekretnina koja odgovara vašim kriterijima. Uvijek je dobro direktno kontaktirati agenta i opisati što tražite.
 
-P: Tražim stan za najam, kako mogu pregledati ponudu?
-O: Naša ponuda nekretnina za najam dostupna je u našem uredu i na našoj web stranici. Kontaktirajte nas s opisom vaših potreba (lokacija, veličina, budžet) i mi ćemo vam predložiti najprikladnije opcije te dogovoriti razglede.
 
-P: Što je potrebno za sklapanje ugovora o najmu?
-O: Za najam su obično potrebni: osobna iskaznica ili putovnica, potvrda o zaposlenju i primanjima (ili drugi dokaz solventnosti), te depozit koji je uobičajeno u visini jedne do dvije mjesečne najamnine. Ugovor se potpisuje u dva primjerka, jedan za stanara i jedan za iznajmljivača.
+## KUPNJA NEKRETNINE
 
-## Prodaja nekretnina
+P: Kako funkcionira proces kupnje?
+O: Najjednostavnije i najsigurnije je direktno se obratiti agentu — on vas vodi kroz cijeli proces. Koraci su: obratite se agentu, opišite kriterije i budžet, agent filtrira nekretnine, zakazujete razgledavanje, pregovarate, potpisujete predugovor s kaparom, pa konačni ugovor kod javnog bilježnika.
 
-P: Zašto prodavati nekretninu uz agenciju, a ne samostalno?
-O: Agencija vam osigurava pristup većoj bazi potencijalnih kupaca, profesionalne fotografije i marketing nekretnine, pravnu sigurnost transakcije te uštedite svoje vrijeme jer preuzimamo sve dogovore, preglede i pregovore. Iskustvo naših agenata osigurava da postignete najbolju moguću cijenu.
+P: Koliko traje kupnja nekretnine?
+O: Obično od dva tjedna do dva mjeseca, ovisno o dogovoru i financiranju. Odobrenje kredita kod nas traje nešto manje od mjesec dana zahvaljujući suradnji s kreditnim posrednicima.
 
-P: Kako se određuje cijena prodaje moje nekretnine?
-O: Besplatno procjenjujemo vašu nekretninu uzimajući u obzir lokaciju, kvadraturu, stanje, kat, orijentaciju, blizinu sadržaja te aktualne tržišne cijene usporedivih nekretnina u vašem kvartu. Preporučujemo realnu cijenu koja osigurava brzu prodaju uz maksimalnu vrijednost.
+P: Koji dokumenti su potrebni za kupnju?
+O: Osobna iskaznica, sredstva za kupnju, predugovor i ugovor. Sve detalje oko dokumentacije agent pokriva s vama — najsigurnije je da agent bude uz vas za taj dio.
+
+P: Koliki je porez na nekretnine?
+O: Porez na promet nekretnina iznosi 3%. Agencijska provizija za kupca je 2,5% s uključenim PDV-om i svim pravnim i javnobilježničkim troškovima.
+
+P: Mogu li stranci kupiti nekretninu u Hrvatskoj?
+O: Da, stranci mogu kupiti nekretninu u Hrvatskoj. Uvjet je da je kupac državljanin zemlje članice Europske unije.
+
+P: Kako funkcionira kupnja putem kredita?
+O: Obratite se agentu koji ima vlastite kreditne posrednike i veze s bankama — tako se najbrže i najlakše dobiva najpovoljniji kredit. Surađujemo s raznim kreditnim posrednicima koji direktno surađuju s bankama. Odobrenje kredita traje nešto manje od mjesec dana.
+
+P: Što je kapara?
+O: Kapara iznosi 10% vrijednosti nekretnine i uplaćuje se pri potpisivanju predugovora. Ako kupac odustane, kapara ostaje prodavatelju. Ako prodavatelj odustane, vraća duplu kaparu.
+
+P: Što je vlasnički list?
+O: Vlasnički list (zemljišnoknjižni izvadak) je dokument u kojem se vidi tko je vlasnik nekretnine, kvadratura, lokacija i sve ostale informacije o nekretnini. Provjeravamo ga mi u sklopu naše usluge.
+
+P: Što su terete na nekretnini?
+O: Teret znači da nekretnina na sebi ima kredit, zabilježbu duga ili neki pravni spor. Sve to mi provjeravamo prije kupnje kako biste bili sigurni.
+
+P: Koliko traje upis u zemljišne knjige?
+O: Upis u zemljišne knjige traje 3 do 4 dana.
+
+
+## RAZGLEDAVANJE
+
+P: Kako zakazati razgledavanje?
+O: Nazovite agenta koji će osloboditi termin prema svom rasporedu. Možemo dogovoriti razgledavanje više nekretnina u jednom danu. Za osobe koje žive u inozemstvu, moguće je i virtualno razgledavanje.
+
+
+## PRODAJA NEKRETNINE
+
+P: Kako prodati nekretninu?
+O: Obratite se agentu koji će vam dati procjenu i savjet o najboljoj cijeni. Nekretnina se zatim nudi na našoj bazi kupaca. Naša usluga uključuje sve: pravnu podršku, pregovore, razgledavanja, filtriranje kupaca, profesionalne fotografije, video i marketing — sve u našem trošku.
+
+P: Kolika je provizija za prodaju?
+O: Provizija agencije za prodaju nekretnine iznosi 3% s uključenim PDV-om. Usluga uključuje profesionalne fotografije, video, marketing na svim relevantnim portalima (Njuška, Index, Plavi oglasnik, Facebook, Instagram) — sve bez dodatnih troškova za vas.
+
+P: Kako odrediti cijenu nekretnine?
+O: Uspoređuje se s trenutnom ponudom na tržištu. Obratite se agentu za službenu procjenu — on vam daje realnu cijenu koja osigurava brzu prodaju uz maksimalnu vrijednost.
+
+P: Koliko traje prodaja?
+O: Ovisi o postavljenoj cijeni i hitnosti prodavatelja. Uz dobro postavljenu cijenu i pravog agenta, proces ide brzo.
+
+P: Radite li ekskluzivne ugovore?
+O: Da, radimo i ekskluzivne ugovore o prodaji.
+
+P: Koje marketinške kanale koristite za prodaju?
+O: Promoviramo nekretnine na Njuškalici, Indexu, Plavom oglasniku, Facebooku i Instagramu. Radimo profesionalne fotografije i video u našem trošku.
+
+
+## NAJAM NEKRETNINE
+
+P: Bavite li se najmom?
+O: Imamo određene stanove za najam koji povremeno dolaze u ponudu, ali primarni fokus agencije je prodaja nekretnina.
+
+P: Koji su uvjeti najma?
+O: Provizija je jedna mjesečna najamnina. Režije se uvijek dodaju na cijenu najma. Ugovor o najmu se radi na godinu dana. Najam primce provjeravamo iz naše baze kupaca ili oglasa.
+
+P: Što je potrebno za najam?
+O: Obratite se agentu — najlakše je iznajmiti stan kroz agenciju jer mi pronalazimo i provjeravamo najam primce.
+
+
+## PRAVNA PODRŠKA I SAVJETOVANJE
+
+P: Pružate li pravnu pomoć?
+O: Da, nudimo pravnu pomoć i savjetovanje. Surađujemo s vlastitim javnobilježničkim i odvjetničkim uredom koji prati cijeli proces kupnje ili prodaje.
+
+P: Pružate li podršku stranim kupcima?
+O: Da, nudimo podršku i za strane kupce. Pozovite nas na 0913635480 za više informacija.
+
+
+## PROCJENA VRIJEDNOSTI
+
+P: Možete li procijeniti moju nekretninu?
+O: Da, nudimo procjenu vrijednosti nekretnina. Procjena se naplaćuje. Za osobni razgovor i okvirnu procjenu, slobodno kontaktirajte agenta.
+
+
+## INVESTICIJSKO SAVJETOVANJE
+
+P: Radite li s investitorima?
+O: Da, radimo puno s investitorima i nudimo investicijsko savjetovanje. Obratite se agentu direktno.
+
+P: Je li trenutno dobro ulagati u nekretnine?
+O: Trend tržišta je da cijene stagniraju i blago rastu. Uvijek je bolje kupiti nego najmiti. Za konkretno investicijsko savjetovanje, kontaktirajte agenta.
+
+
+## LOKACIJE
+
+P: Na kojim lokacijama radite?
+O: Radimo po cijeloj Hrvatskoj, pretežito Zagreb i okolica Zagreba. Trenutno najbolje lokacije su Zagreb općenito, posebno dijelovi uz Maksimir, Jarun i Donji grad.
+
+
+## PREGOVORI
+
+P: Ima li prostora za pregovore oko cijene?
+O: Uvijek postoji prostor za pregovore kada imate pravog agenta. To je jedna od ključnih prednosti rada s agencijom.
+
 
 # ============================================================
-# DODAJTE OVDJE DODATNA PITANJA I ODGOVORE
+# DODAJTE NOVA PITANJA I ODGOVORE ISPOD
 # ============================================================
