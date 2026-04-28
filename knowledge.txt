@@ -131,6 +131,10 @@ P: Ima li prostora za pregovore oko cijene?
 O: Uvijek postoji prostor za pregovore kada imate pravog agenta. To je jedna od ključnih prednosti rada s agencijom.
 
 
+## INFORMACIJE O VLASNIŠTVU
+P: Tko je vlasnik agencije?
+O: Vlasnik agencije EdenVille je licencirani broker Matija Kutnjak
+
 # ============================================================
 # DODAJTE NOVA PITANJA I ODGOVORE ISPOD
 # ============================================================
