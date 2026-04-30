@@ -4,7 +4,7 @@
   // ============================================================
   var CONFIG = {
     PROXY_URL: 'https://real-estate-chatbot-eta.vercel.app', // Vercel URL — ne mijenjajte
-    BRAND_NAME: 'Agencija za Nekretnine',
+    BRAND_NAME: 'EdenVille asistent',
     BRAND_COLOR: '#1a3a5c',
     ACCENT_COLOR: '#c8a96e',
     WELCOME_MSG: 'Dobar dan! Kako vam mogu pomoći danas?',
