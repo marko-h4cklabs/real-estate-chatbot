@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  var MATIJA_PHOTO = 'MATIJA_PHOTO_URL';
+  var MATIJA_PHOTO = '/matija.jpg';
   var NAVY = '#1a3a5c';
   var GOLD = '#c8a96e';
 
