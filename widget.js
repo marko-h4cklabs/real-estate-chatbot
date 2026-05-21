@@ -1,7 +1,7 @@
 (function () {
   'use strict';
 
-  var MATIJA_PHOTO = '/matija.jpg';
+  var MATIJA_PHOTO = 'https://raw.githubusercontent.com/marko-h4cklabs/real-estate-chatbot/main/public/matija.jpg';
   var NAVY = '#1a3a5c';
   var GOLD = '#c8a96e';
 
