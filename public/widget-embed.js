@@ -17,16 +17,16 @@
   // ── CSS ──────────────────────────────────────────────────────
   var styleEl = document.createElement('style');
   styleEl.textContent =
-    '#re-bubble{position:fixed;bottom:24px;right:24px;width:60px;height:60px;border-radius:50%;border:3px solid ' + GOLD + ';cursor:pointer;box-shadow:0 4px 20px rgba(0,0,0,.28);z-index:9998;overflow:hidden;padding:0;background:' + NAVY + ';transition:transform .2s;display:flex;align-items:center;justify-content:center;}' +
+    '#re-bubble{position:fixed;bottom:24px;right:24px;width:72px;height:72px;border-radius:50%;border:3px solid ' + GOLD + ';cursor:pointer;box-shadow:0 4px 20px rgba(0,0,0,.28);z-index:9998;overflow:hidden;padding:0;background:' + NAVY + ';transition:transform .2s;display:flex;align-items:center;justify-content:center;}' +
     '#re-bubble:hover{transform:scale(1.07);}' +
-    '#re-bubble img{width:100%;height:100%;object-fit:cover;display:block;border-radius:50%;}' +
+    '#re-bubble img{width:100%;height:100%;object-fit:cover;object-position:top center;display:block;border-radius:50%;}' +
     '#re-bubble-icon{width:100%;height:100%;display:flex;align-items:center;justify-content:center;}' +
     '#re-bubble-icon svg{width:30px;height:30px;fill:#fff;}' +
     '#re-window{position:fixed;bottom:96px;right:24px;width:370px;max-width:calc(100vw - 32px);height:540px;max-height:calc(100vh - 120px);background:#fff;border-radius:20px;box-shadow:0 12px 48px rgba(0,0,0,.2);z-index:9999;display:flex;flex-direction:column;overflow:hidden;font-family:"DM Sans",system-ui,sans-serif;transform:scale(.92) translateY(16px);opacity:0;pointer-events:none;transition:transform .25s cubic-bezier(.4,0,.2,1),opacity .25s;}' +
     '#re-window.open{transform:scale(1) translateY(0);opacity:1;pointer-events:all;}' +
     '#re-header{background:' + NAVY + ';padding:14px 16px;display:flex;align-items:center;gap:11px;flex-shrink:0;}' +
     '#re-header-photo{width:42px;height:42px;border-radius:50%;border:2px solid ' + GOLD + ';overflow:hidden;flex-shrink:0;background:' + NAVY + ';}' +
-    '#re-header-photo img{width:100%;height:100%;object-fit:cover;display:block;}' +
+    '#re-header-photo img{width:100%;height:100%;object-fit:cover;object-position:top center;display:block;}' +
     '#re-header-info{flex:1;}' +
     '#re-header-name{color:#fff;font-weight:600;font-size:15px;line-height:1.2;}' +
     '#re-header-sub{display:flex;align-items:center;gap:5px;margin-top:2px;}' +
@@ -160,7 +160,7 @@
     '<div id="re-header">' +
       headerPhotoHtml +
       '<div id="re-header-info">' +
-        '<div id="re-header-name">Matija Blažević</div>' +
+        '<div id="re-header-name">Matija Kutnjak</div>' +
         '<div id="re-header-sub"><div id="re-online-dot"></div><span id="re-subtitle">EdenVille agent</span></div>' +
       '</div>' +
       '<button id="re-close" aria-label="Zatvori">&times;</button>' +
@@ -231,7 +231,7 @@
     card.className = 're-contact-card';
     card.innerHTML =
       contactPhotoHtml +
-      '<div class="re-contact-name">Matija Blažević</div>' +
+      '<div class="re-contact-name">Matija Kutnjak</div>' +
       '<div class="re-contact-tagline">Matija je spreman pomoći vam!</div>' +
       '<div class="re-contact-links">' +
         '<a class="re-contact-link" href="tel:0913635480">' +
